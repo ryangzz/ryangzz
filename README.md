@@ -1,4 +1,4 @@
-# Perfil de Desarrollador Web
+#  Desarrollador Web SR
 
 ¡Hola! Soy un desarrollador web con experiencia en una variedad de tecnologías y lenguajes de programación. Mi enfoque principal es crear aplicaciones web eficientes y atractivas. Aquí tienes un resumen de las tecnologías en las que tengo experiencia:
 
@@ -43,6 +43,6 @@
 Si estás interesado en colaborar en un proyecto o tienes alguna pregunta, no dudes en contactarme:
 
 - Email: brayan_snt7@live.com.mx
-- LinkedIn: [Tu Perfil de LinkedIn](https://www.linkedin.com/in/brayan-gonzalez-0425/)
+- LinkedIn: [Perfil de LinkedIn](https://www.linkedin.com/in/brayan-gonzalez-0425/)
 
 ¡Espero tener la oportunidad de colaborar contigo en futuros proyectos!
